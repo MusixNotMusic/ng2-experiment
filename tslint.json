@@ -114,7 +114,7 @@
     "new-parens": true,
     "no-angle-bracket-type-assertion": true,
     "member-access": false,
-    "no-any": true,
+    "no-any": false,
     "no-arg": true,
     "no-bitwise": false,
     "no-consecutive-blank-lines": [
@@ -185,7 +185,7 @@
       "ignore-for-loop"
     ],
     "ordered-imports": [
-      true,
+      false,
       {
         "import-sources-order": "lowercase-last",
         "named-imports-order": "lowercase-first"
